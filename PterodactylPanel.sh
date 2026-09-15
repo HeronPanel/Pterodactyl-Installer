@@ -1,6 +1,5 @@
 #!/bin/bash
-# Made by Jishnu Joy
-# cmd creadit hopingboyz
+# Made by Heron
 
 echo "📦 Installing Pterodactyl Panel with Docker..."
 
